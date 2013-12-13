@@ -1,6 +1,6 @@
 Parallelization of Poisson Blending
 ===================================
-By Jason Ting, Ryan Lee, Alex Lehman
+By Won (Ryan) Lee, Alex Lehman, and Jason Ting
 
 Final Project for Computer Science 205, Fall 2013
 -------------------------------------------------
