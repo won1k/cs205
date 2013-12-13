@@ -2,8 +2,8 @@ Parallelization of Poisson Blending
 ===================================
 By Jason Ting, Ryan Lee, Alex Lehman
 
-Final Project for Computer Science 205, Fall 2013 (Cris Cecka)
---------------------------------------------------------------
+Final Project for Computer Science 205, Fall 2013
+-------------------------------------------------
 
 The objective of the Poisson Blending algorithm is to compose a source image and a target image in the gradient domain. The code implements Poisson Blending in parallel with CUDA and Cheetah to efficiently and automatically superimpose images without visible seams.
 
